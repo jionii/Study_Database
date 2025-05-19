@@ -2,6 +2,16 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/00_계정생성및권한부여.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_tabledb/create_usertbl_buytbl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_tabledb/drop_create_usertbl_v2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_tabledb/usertbl_birthyear_constraint.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_tabledb/usertbl_schema_and_alterations.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/02_view/EMPLOYEES_INFO.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/02_view/create_view.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/01_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/02_dml.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/03_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/04_create_view.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
